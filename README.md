@@ -41,8 +41,13 @@ In our case as our input sentence does not contains any white space we can't use
 Now as our vocab is built and ready to go, I have trained the model as mentioned in above training steps.
 
 # Use of the Repo
-you can open <b>char space rnn .ipynb</b> and see the code for all the steps mentioned above.
-If you have any query feel free to contact me 
+you can open <b><a href="https://github.com/swapnilskumbhar/char_space_rnn/blob/master/char%20space%20rnn%20.ipynb">char space rnn notebook</a></b> and see the code for all the steps mentioned above. There are comments present in the code which will be helpful in understanding the code.
+<br>
+# References 
+<a href="https://pytorch.org/tutorials/beginner/chatbot_tutorial.html">Seq2Seq model</a>
+
+<hr>
+If you have any queries feel free to contact me 
 <a href="https://www.linkedin.com/in/swapnilskumbhar">here</a>
 
 
